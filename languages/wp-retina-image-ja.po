@@ -1,0 +1,130 @@
+# Copyright (C) 2013 WordPress
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Use Retina Image\n"
+"Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
+"POT-Creation-Date: 2017-04-25 11:12+0900\n"
+"PO-Revision-Date: 2017-04-25 11:12+0900\n"
+"Last-Translator: Minoru Wada <wada@coffee-break-desings.com>\n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: WpRetinaImage_OptionsManager.php:250
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするための十分な権限がありません。"
+
+#: WpRetinaImage_OptionsManager.php:290
+msgid "Software development donation is a bit coin with less commission."
+msgstr "ソフト開発寄付金は手数料の少ないビットコインでお願いします。"
+
+#: WpRetinaImage_OptionsManager.php:297
+msgid "Settings"
+msgstr "設定"
+
+#: WpRetinaImage_OptionsManager.php:328
+msgid "Save Changes"
+msgstr "保存"
+
+#: WpRetinaImage_OptionsManager.php:386
+msgid "true"
+msgstr "はい"
+
+#: WpRetinaImage_OptionsManager.php:388
+msgid "false"
+msgstr "いいえ"
+
+#: WpRetinaImage_OptionsManager.php:391
+msgid "Administrator"
+msgstr "Administrator"
+
+#: WpRetinaImage_OptionsManager.php:393
+msgid "Editor"
+msgstr "Editor"
+
+#: WpRetinaImage_OptionsManager.php:395
+msgid "Author"
+msgstr "Author"
+
+#: WpRetinaImage_OptionsManager.php:397
+msgid "Contributor"
+msgstr "Contributor"
+
+#: WpRetinaImage_OptionsManager.php:399
+msgid "Subscriber"
+msgstr "Subscriber"
+
+#: WpRetinaImage_OptionsManager.php:401
+msgid "Anyone"
+msgstr "Anyone"
+
+#: WpRetinaImage_Plugin.php:18
+msgid "Set the value of srcset to 1x, 2x (not recommended)"
+msgstr "srcsetの値を1x、2xに設定する(非推奨)"
+
+#: WpRetinaImage_Plugin.php:106
+msgid "1x size"
+msgstr "1x size"
+
+#: wp-retina-image.php:39
+msgid ""
+"Error: plugin \"WP Retina Image\" requires a newer version of PHP to be "
+"running."
+msgstr ""
+"エラー：プラグイン \"WP Retina Image\"を実行するには、新しいバージョンのPHP"
+"が必要です。"
+
+#: wp-retina-image.php:40
+msgid "Minimal version of PHP required: "
+msgstr "最低限必要なPHPのバージョン:"
+
+#: wp-retina-image.php:41
+msgid "Your server's PHP version: "
+msgstr "サーバーのPHPバージョン:"
+
+#~ msgid "System Settings"
+#~ msgstr "システム設定"
+
+#~ msgid "System"
+#~ msgstr "システム"
+
+#~ msgid "PHP Version"
+#~ msgstr "PHP Version"
+
+#~ msgid ""
+#~ "(WARNING: This plugin may not work properly with versions earlier than "
+#~ "PHP 5.2)"
+#~ msgstr ""
+#~ "(警告：このプラグインはPHP 5.2より前のバージョンでは正しく動作しないかも"
+#~ "しれません)"
+
+#~ msgid "MySQL Version"
+#~ msgstr "MySQL Version"
+
+#~ msgid ""
+#~ "(WARNING: This plugin may not work properly with versions earlier than "
+#~ "MySQL 5.0)"
+#~ msgstr ""
+#~ "(警告：このプラグインはMySQL 5.0より前のバージョンでは正しく動作しないか"
+#~ "もしれません)"
+
+#~ msgid "Just by uploading foo@2x.png, resized 1x are created automatically"
+#~ msgstr ""
+#~ "ファイル名foo@2x.pngみたいに@2xが付いた画像をアップロードすると1xのサイ"
+#~ "ズを作ってくれます"
+
+#~ msgid "- When used for posting"
+#~ msgstr "- 投稿で使用する場合"
+
+#~ msgid "Upload file with '@2x' in file name"
+#~ msgstr "ファイル名に'@2x'が付いているファイルをアップロード"
+
+#~ msgid "Select 'size item' as '1x size' when inserting media"
+#~ msgstr "メディア挿入時に'サイズ項目'を'1x size'を選択"
